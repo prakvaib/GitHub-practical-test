@@ -5,9 +5,9 @@
 | Details | Information |
 |---|---|
 | **Full Name** | Prakriti vaibhav |
-| **URN Number** | [Enter Your URN] |
-| **Semester** | [Enter Your Semester] |
-| **Section** | [Enter Your Section] |
+| **URN Number** | E25B032619 |
+| **Semester** | 3rd |
+| **Section** | B |
 | **Subject** | Git and GitHub |
 
 ## Project Description
